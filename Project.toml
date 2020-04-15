@@ -1,0 +1,4 @@
+name = "myjuliapacket"
+uuid = "5265a6c1-ed78-4214-a39d-635e5a4fc188"
+authors = ["kjurgielajtis <jurgielajtiskrzysztof@gmail.com>"]
+version = "0.1.0"
