@@ -2,3 +2,6 @@ name = "myjuliapacket"
 uuid = "5265a6c1-ed78-4214-a39d-635e5a4fc188"
 authors = ["kjurgielajtis <jurgielajtiskrzysztof@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
